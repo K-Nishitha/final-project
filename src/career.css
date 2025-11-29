@@ -1,0 +1,46 @@
+.career-page {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+
+.career-box {
+  width: 880px;
+  max-width: 95%;
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+}
+
+.recs {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 12px;
+  margin-top: 12px;
+}
+
+.rec-card {
+  padding: 12px;
+  border-radius: 6px;
+  background: #fafafa;
+  border: 1px solid #eee;
+}
+
+.small-btn {
+  padding: 6px 10px;
+  border-radius: 6px;
+  border: none;
+  background: #1976d2;
+  color: white;
+  cursor: pointer;
+}
+
+.action-btn {
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: none;
+  background: #2e7d32;
+  color: white;
+  cursor: pointer;
+}
