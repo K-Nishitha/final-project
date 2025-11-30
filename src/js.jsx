@@ -1,5 +1,5 @@
 import React from "react";
-import "./Js.css";
+import "./js.css";
 
 const Js = () => {
 return ( <div className="java-container"> <h1>

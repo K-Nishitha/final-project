@@ -1,5 +1,5 @@
 import React from "react";
-import "./Css.css";
+import "./css.css";
 
 const Css = () => {
 return ( <div className="css-container"> <h1>

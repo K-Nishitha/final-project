@@ -1,5 +1,5 @@
 import React from "react";
-import "./Html.css";
+import "./html.css";
 
 const Html = () => {
 return ( <div className="html-container"> <h1>
